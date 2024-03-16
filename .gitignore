@@ -1,1 +1,5 @@
 venv
+logs
+
+mlproject.egg-info/
+src/__pycache__/
