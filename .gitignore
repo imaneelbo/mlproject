@@ -3,3 +3,4 @@ logs/
 
 mlproject.egg-info/
 src/__pycache__/
+artifacts
